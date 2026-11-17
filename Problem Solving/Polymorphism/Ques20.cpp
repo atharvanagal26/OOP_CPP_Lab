@@ -44,5 +44,5 @@ int main() {
     cout << "\n--- Cleaning Up Resources ---\n";
     delete device1;
     delete device2;
-    return 0;
+    return 0;  
 }
