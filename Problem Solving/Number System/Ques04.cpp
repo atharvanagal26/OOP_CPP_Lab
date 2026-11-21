@@ -46,9 +46,9 @@ int main() {
     long long n;
     if (!(cin >> n)) return 0;
     if (isCircularPrime(n)) {
-        cout << "YES\n";
+        cout << "Circular Prime\n";
     } else {
-        cout << "NO\n";
+        cout << "Not a Circular Prime\n";
     }
     return 0;
 }
