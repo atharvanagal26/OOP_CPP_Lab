@@ -4,7 +4,7 @@
         {
             "type": "process",
             "label": "C/C++: g++.exe build active file",
-            "command": "D:\\C&CPP Files\\bin\\g++.exe",
+            "command": "D:\\CPP_Files\\bin\\g++.exe",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
